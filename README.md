@@ -4,7 +4,7 @@
 
 [Node.js](https://nodejs.org) and [Git](https://git-scm.com) are required. To set up the project, run the following commands:
 ```
-git clone https://gitlab.com/hasanger/phaser-planck-example.git
+git clone https://github.com/SoyMilk13/arcane-arena.git
 cd arcane-arena
 npm i
 npm run buildClient
